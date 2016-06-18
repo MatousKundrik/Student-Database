@@ -1,0 +1,26 @@
+PupilID	FName	SName	Birth Date	House Address	Phone Number	Gender	Form	Email
+0001	John	Smith	06/09/2001	459 River Street	01632 960471	Male	9AHA	Jsmith@school.com
+0002	Cindie	Lynn	16/02/2002	299 Summit Avenue	01632 960017	Female	9AHA	Clynn@school.com
+0003	Tarsha	Dreil	07/08/2001	107 Schoolhouse Lane	01632 960792	Female	9AHA	Tdreil@school.com
+0004	Rory	Wootton	15/02/2002	598 Leanway Avenue	01632 960756	Male	9AHA	Rwooton@school.com
+0005	Lacey	Slovak	04/09/2002	652 Center Street	01632 960316	Female	9AHA	Lslovak@school.com
+0006	Claude	Fellman	30/04/2001	982 Broadway Lane	01632 960102	Male	9AHA	Cfellman@school.com
+0007	Maryln	Stang	15/08/2001	583 Amherst Street	01632 960175	Female	9AHA	Mstang@school.com
+0008	Ronny	Pero	29/11/2001	216 Broad Street	01632 960976	Male	9AHA	Rpero@school.com
+0009	Eliseo	Weich	26/02/2001	710 Lindore Lane	01632 960374	Male	9AHA	Eweich@school.com
+0010	Beula	Fine	02/12/2002	209 Pleasant Street	01632 960070	Female	9AHA	Bfine@school.com
+0011	Meta	Mcauley	13/10/2001	16 Cobblestone Court	01632 960571	Female	9AHA	Mmcauley@school.com
+0012	Kenia	Krupa	07/08/2001	210 Second Avenue	01632 960519	Female	9AHA	Kkrupa@school.com
+0013	Ingrid	Shira	11/05/2002	225 Parker Street	01632 960950	Female	9AHA	Ishira@school.com
+0014	Chad	Justin	12/06/2002	14 Clairmont Road	01632 960395	Male	9AHA	Cjustin@school.com
+0015	Brock	Mccroy	02/04/2001	105 Elmore Street	01632 960521	Male	9AHA	Bmccroy@school.com
+0016	Ivelis	Grossi	25/09/2002	420 Main Street West	01632 960115	Female	9AHA	Igrossi@school.com
+0017	Stan	Hilden	10/12/2002	76 Ridgette Avenue	01632 960268	Male	9AHA	Shilden@school.com
+0018	Indira	Araiza	24/05/2002	476 Second Avenue	01632 960743	Female	9AHA	Iaraiza@school.com
+0019	Sandra	Moland	08/11/2002	691 Briarwood Court	01632 960930	Female	9AHA	Smoland@school.com
+0020	Ben	Brown	03/06/2001	980 Laurel Drive	01632 960336	Male	9AHA	Bbrown@school.com
+0021	Gertrud	Gazda	16/08/2001	294 Queen Street	01632 960842	Female	9AHA	Ggazda@school.com
+0022	Marry	Schoepp	09/01/2002	508 Highland Avenue	01632 960291	Female	9AHA	Mschoepp@school.com
+0023	Sammy	Norton	14/03/2001	237 6th Street North	01632 960459	Male	9AHA	Snoton@school.com
+0024	Rozella	Uhrig	21/11/2002	786 Longstream Avenue	01632 960415	Female	9AHA	Ruhrig@school.com
+0025	Timothy	Winston	01/06/2002	821 Grant Avenue	01632 960929	Male	9AHA	Twinston@school.com

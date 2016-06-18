@@ -1,6 +1,9 @@
 #Pycharm project files
 .idea/
 
+#Database file
+Database.txt
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
